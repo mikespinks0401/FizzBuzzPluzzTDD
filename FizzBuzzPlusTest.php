@@ -1,6 +1,6 @@
 <?php
 require_once 'FizzBuzzPlus.php';
-require_once 'printList.php';
+require_once 'PrintList.php';
 
 use PHPUnit\Framework\TestCase;
 
